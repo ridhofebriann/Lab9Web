@@ -1,5 +1,12 @@
 # **Praktikum 9 — Modularisasi PHP & Implementasi CRUD (lab9web)**
 
+Nama: M.Ridho Febrian
+NIM: 312410500
+Kelas: TI.24.A.5  
+Mata Kuliah: Pemrograman Web  
+Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom  
+Universitas: Pelita Bangsa  
+
 Repository ini berisi hasil pengerjaan **Praktikum 9 Pemrograman Web**, dengan fokus pada penerapan **modularisasi**, pembuatan **routing sederhana**, dan penataan ulang struktur sistem CRUD dari praktikum sebelumnya menjadi lebih rapi, modern, dan terorganisir.
 
 Pada praktikum ini saya juga menambahkan fitur **Login** dan **Logout sederhana (tanpa session)** yang menggunakan mekanisme `alert()` dan `redirect`.
